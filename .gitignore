@@ -1,0 +1,8 @@
+# 컴파일 결과물 제외
+**/*/node_modules
+**/*/dist
+
+# 개발환경 제외
+.idea
+**/.idea
+
